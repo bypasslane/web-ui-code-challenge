@@ -67,6 +67,7 @@
         {
           "id": 3003,
           "name": "12oz Coke",
+          "price": "3.0",
           "description": "The original Coca-Cola",
           "position": 105,
           "image_url": "https://bypass-items.s3.amazonaws.com/images/13ceb47f1804bd4cbd334f7d3e129aafc3bc6e37/original.png",
@@ -84,6 +85,7 @@
         {
           "id": 5543,
           "name": "Dasani Water",
+          "price": "2.75",
           "position": 42,
           "image_url": "https://bypass-items.s3.amazonaws.com/images/0b0097c6dcfeeaeb1ba283cf7b791700bfea6d9c/original.png",
           "tax_rates": [
